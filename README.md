@@ -1689,7 +1689,3 @@ This is a code repository for the corresponding video tutorial. Your portfolio i
 
 In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
 
-Setup:
-- run ```npm i && npm start```
-## Personal Portfolio
-
