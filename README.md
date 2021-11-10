@@ -1693,5 +1693,3 @@ Setup:
 - run ```npm i && npm start```
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
-
